@@ -1,0 +1,33 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50px 300px;
+    gap: 40px;
+    padding-top: 20px;
+    width: 350px;
+  }
+
+.name {
+  padding: 0px 0px 0px;
+  font-size: 15px;
+    font-weight: 5SS00;
+    color: black;
+}
+
+.post {
+    color:#949192;
+}
+
+.comment {
+    color: #6092e1;
+    font-size: 15px;
+    padding-top: 8px;
+}
+
+.icon-comment {
+    width: 15px;
+}
+
+.comment-button {
+  text-decoration: none;
+}
