@@ -43,10 +43,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Projek ini berisi post comment yang di ambil menggunakan json place holder.
-berikut ini link uuntuk mengakses website berikut ini:
+this procet used for see post and comment from jsonplaceholder. 
+this link for access this website
 * / for access dashboard
 * /profile for see a profile detail
 * /login for visit User Interface Login (this section is not ready for using)
@@ -122,7 +120,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Joel Oktavianus - [@your_twitter]joeloktavianus42@gmail.com
+Joel Oktavianus - joeloktavianus42@gmail.com
 
 Project Link: [https://github.com/joeloktavianus/test-dev-fe.git](https://github.com/joeloktavianus/test-dev-fe.git)
 
